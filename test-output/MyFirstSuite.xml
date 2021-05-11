@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="LoginModule" >
+
+	<test name="LoginTEST">
+		
+		
+		<classes>
+			<!--  <class name="Testcases.VerifyLoginFunctionality">
+			</class>-->
+		<class name="Testcases.TC3RememberMe">
+			</class>
+
+		</classes>
+		
+	
+	</test>
+</suite>
